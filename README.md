@@ -1,2 +1,2 @@
-# project1
-Calculator
+# CALCULATOR
+HTML || CSS || JAVASCRIPT
